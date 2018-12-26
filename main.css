@@ -526,7 +526,7 @@ a,
 .navbar .navbar-nav > li > a.btn:disabled,
 .navbar .navbar-nav > li > a.btn[disabled],
 .navbar .navbar-nav > li > a.btn.disabled {
-  background-color: #000;
+  background-color: transparent;
   border-color: #888888;
 }
 .btn.btn-fill,
