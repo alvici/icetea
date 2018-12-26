@@ -518,7 +518,7 @@ a,
 .navbar .navbar-nav > li > a.btn:active,
 .navbar .navbar-nav > li > a.btn.active, .open >
 .navbar .navbar-nav > li > a.btn.dropdown-toggle {
-  background-color: #000;
+  background-color: transparent;
   color: #777777;
   border-color: #777777;
 }
@@ -1447,7 +1447,7 @@ a,
   }
   .navbar-transparent .navbar-nav .nav > li > a.btn:hover,
   [class*="navbar-ct"] .navbar-nav .nav > li > a.btn:hover {
-    background-color: transparent;
+    background-color: #000;
   }
   .navbar-transparent .navbar-nav > .dropdown > a .caret,
   .navbar-transparent .navbar-nav > .dropdown > a:hover .caret,
