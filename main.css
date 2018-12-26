@@ -526,7 +526,7 @@ a,
 .navbar .navbar-nav > li > a.btn:disabled,
 .navbar .navbar-nav > li > a.btn[disabled],
 .navbar .navbar-nav > li > a.btn.disabled {
-  background-color: transparent;
+  background-color: #000;
   border-color: #888888;
 }
 .btn.btn-fill,
@@ -1447,7 +1447,7 @@ a,
   }
   .navbar-transparent .navbar-nav .nav > li > a.btn:hover,
   [class*="navbar-ct"] .navbar-nav .nav > li > a.btn:hover {
-    background-color: #000;
+    background-color: transparent;
   }
   .navbar-transparent .navbar-nav > .dropdown > a .caret,
   .navbar-transparent .navbar-nav > .dropdown > a:hover .caret,
