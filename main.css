@@ -518,7 +518,7 @@ a,
 .navbar .navbar-nav > li > a.btn:active,
 .navbar .navbar-nav > li > a.btn.active, .open >
 .navbar .navbar-nav > li > a.btn.dropdown-toggle {
-  background-color: transparent;
+  background-color: #000;
   color: #777777;
   border-color: #777777;
 }
